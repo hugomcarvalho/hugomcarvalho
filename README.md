@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m @hugomcarvalho
-- 👀 I’m interested in Mobile development.
-- 🌱 I’m currently learning Kotlin and React development.
-- 💞️ I’m looking to collaborate on mobile and startups tech creations.
+- 👀 I’m interested in Cybersecurity.
+- 🌱 I’m currently certified by CompTIA Security+ and CySA+.
+- 💞️ I’m looking to collaborate cybersecurity tools creation.
 - 📫 How to reach me: 
 LinkedIn: https://www.linkedin.com/in/hugocarvalhoo/
-E-mail: hugomarianocar@gmail.com
